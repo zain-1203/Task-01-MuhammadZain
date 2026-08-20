@@ -28,12 +28,13 @@ standards-compliant dimensioning.
 | Folder | Contents |
 |--------|----------|
 | `drawings/` | Residential floor plan (`.dwg`) |
-| `screenshots/` | Final plan, layer setup & dimensioning proof images |
+| `screenshot/` | Final plan, layer setup & dimensioning proof images |
 
 ## Tools Used
 AutoCAD (2D drafting, layers, blocks, dimensioning)
 
 ---
 
-## Author
-**Ruqia Abdullah** — BS Computer Science, The University of Faisalabad
+
+
+
